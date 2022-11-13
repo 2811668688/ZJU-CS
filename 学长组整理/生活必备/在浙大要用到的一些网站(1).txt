@@ -1,0 +1,17 @@
+http://www.zjustjpkc.com/ 	社团精品课报名网址 （拿二课的）
+https://mail.zju.edu.cn/ 	浙江大学电子邮件系统
+http://myvpn.zju.edu.cn/login.action	 	浙江大学网络运行系统，充网费的，改变套餐等等功能
+https://rvpn.zju.edu.cn/	浙江大学RVPN系统，具体咨询学长
+http://jwbinfosys.zju.edu.cn/default2.aspx	 现代教务管理系统（外网版）
+http://10.202.78.13/ 		现代教务管理系统（内网版）
+http://10.202.78.14/		本科生信息服务平台 （选课）（专业确认等等）
+http://10.71.45.100/ 		计算机学院的一个课程有关平台
+http://www.tyys.zju.edu.cn/ 	浙江大学公共体育与艺术部（体育网络考试，体测报名等等
+https://net.zju.edu.cn/srun_portal_pc.php?url=http://www.baidu.com/&ac_id=3
+浙江大学认证系统（无线上网）
+https://pan.zju.edu.cn/ 	浙大云盘 虽然只有50G,但走内网速度快到飞起（校内车道）
+http://www.youth.zju.edu.cn/qnzyz/index.php?cmd=login
+浙江大学网上团支部——青年志愿者中心（和你们志愿者小时数有关的）
+http://cspo.zju.edu.cn/cspo_bks/计算机学院本科生网
+
+以上内容由计算机学院学生会整理
